@@ -4,18 +4,18 @@ This repository contains applied Systems Thinking Framework analyses on various 
 These documents are public but are not optimized for visibility.
 They are my notes and ongoing commitment to thinking structurally about complex systems.
 
-**WHAT THIS IS**
+**WHAT THIS IS:**
 
 - Working notes
 - Ongoing practive in modeling complex systems
 
-**WHAT THIS IS NOT**
+**WHAT THIS IS NOT:**
 
 - Forecasts
 - Hot takes
 - Policy prescriptions
 
-** WHY SYSTEMS THINKING?**
+**WHY SYSTEMS THINKING?**
 
 - Objective: to understand the dynamics of complex systems, not to predict specific outcomes. 
 
