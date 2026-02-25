@@ -7,7 +7,7 @@ They are my notes and ongoing commitment to thinking structurally about complex 
 **WHAT THIS IS:**
 
 - Working notes
-- Ongoing practive in modeling complex systems
+- Ongoing practice in modeling complex systems
 
 **WHAT THIS IS NOT:**
 
@@ -17,7 +17,7 @@ They are my notes and ongoing commitment to thinking structurally about complex 
 
 **WHY SYSTEMS THINKING?**
 
-- Objective: to understand the dynamics of complex systems, not to predict specific outcomes. 
+- **Objective**: to understand the dynamics of complex systems, not to predict specific outcomes
 
 **METHOD**
 
